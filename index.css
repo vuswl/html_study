@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "ImcreSoojin";
+    src: url("./ImcreSoojin.ttf") format("truetype");
+}
+
+body {
+    background-color:darkseagreen;
+}
+
+p {
+    font-size: 35px;
+    font-family: "ImcreSoojin";
+    font-size: 35px;
+}
